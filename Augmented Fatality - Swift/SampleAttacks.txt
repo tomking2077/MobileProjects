@@ -1,0 +1,102 @@
+Damage: 2
+Maximum Height Difference: 6
+Energy Cost: 2
+
+    X    
+    X    
+    X    
+   X X   
+XXX O XXX
+   X X   
+    X    
+    X    
+    X    
+
+Damage: 9
+Maximum Height Difference: 4
+Energy Cost: 10
+
+  O  
+     
+XXXXX
+XXXXX
+XXXXX
+
+Damage: 2 + -1 * dh
+Maximum Height Difference: 3
+Energy Cost: 1
+
+  O  
+XXXXX
+
+Damage: 5
+Maximum Height Difference: 5
+Energy Cost: 5
+
+  X  
+ XXX 
+XXOXX
+ XXX 
+  X  
+
+Damage: 9 + -2 * dh
+Maximum Height Difference: 7
+Energy Cost: 6
+
+O
+X
+X
+X
+
+Damage: 3
+Maximum Height Difference: 3
+Energy Cost: 1
+
+ O 
+   
+   
+XXX
+
+Damage: 3 + 1 * dh
+Maximum Height Difference: 5
+Energy Cost: 2
+
+  O  
+     
+XXXXX
+
+Damage: 9
+Maximum Height Difference: 4
+Energy Cost: 4
+
+ O 
+XXX
+
+Damage: 4 + -1 * dh
+Maximum Height Difference: 3
+Energy Cost: 2
+
+    X    
+    X    
+         
+         
+XX  O  XX
+         
+         
+    X    
+    X    
+
+Damage: 3 + 1 * dh
+Maximum Height Difference: 6
+Energy Cost: 4
+
+    X    
+    X    
+    X    
+   X X   
+XXX O XXX
+   X X   
+    X    
+    X    
+    X    
+

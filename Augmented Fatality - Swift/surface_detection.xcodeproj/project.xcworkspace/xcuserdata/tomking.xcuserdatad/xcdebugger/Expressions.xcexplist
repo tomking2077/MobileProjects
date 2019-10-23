@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "ViewController.stupidTestingFunc(tiles:):ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "pos">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.createGameBoard(anchorPos:):ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "boardTiles[1][6].position">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.confirmBoardOutline(_:):ViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.placeTiles(tiles:):ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "tiles[i][j].position">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.receivedData(_:from:):ViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.updateLocalHeightArray(recvState:):ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "recvState.heightArray[0][3]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
